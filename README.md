@@ -10,5 +10,5 @@ I'm dsperson
 
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 
-| <a href="https://github.com/dsperson/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dsperson&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/dsperson/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsperson&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+| <a href="https://github.com/DSPerson"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dsperson&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="DSperson's github stats" /></a> | <a href="https://github.com/DSPerson"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsperson&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
